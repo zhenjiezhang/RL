@@ -60,3 +60,12 @@ def trajectory_cost_fn(cost_fn, states, actions, next_states):
     for i in range(len(actions)):
         trajectory_cost += cost_fn(states[i], actions[i], next_states[i])
     return trajectory_cost
+
+
+    
+    
+    
+    
+    
+    
+    
