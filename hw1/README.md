@@ -1,3 +1,4 @@
+http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/hw1fall2017.pdf
 # CS294-112 HW 1: Imitation Learning
 
 Dependencies: TensorFlow, MuJoCo version 1.31, OpenAI Gym
